@@ -5,8 +5,8 @@ An online application for an Indian website with a health focus was developed.
 ### This web based health application has been developedfor the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-** Project Link **- https://gray-stone-0b7817100.2.azurestaticapps.net/
-** project demo link **- 
+**Project Link**- https://gray-stone-0b7817100.2.azurestaticapps.net/
+**project demo link**- 
 
 ## Azure technologies used for Project
 
