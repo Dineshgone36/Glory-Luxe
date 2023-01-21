@@ -6,7 +6,8 @@ An online application for an Indian website with a health focus was developed.
 
 
 **Project Link**- https://gray-stone-0b7817100.2.azurestaticapps.net/
-**project demo link**- 
+
+**project demo link**- https://youtu.be/PAvLI01zM2s
 
 ## Azure technologies used for Project
 
